@@ -15,10 +15,13 @@ let myTimeStamp = Date.now()
 //console.log(myCreatedDate.getTime());
 
 let newDate = new Date()
-console.log(newDate);
-console.log(newDate.getMonth());
-console.log(newDate.getDay());
-console.log(newDate.getDate());
+
+//console.log(newDate);
+//console.log(newDate.getMonth());
+//console.log(newDate.getDay());
+//console.log(newDate.getDate());
+
+
 
 
 
